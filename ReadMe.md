@@ -4,7 +4,7 @@
 
 This repository is a **Student Workbook** "template repository" containing [**demos**](./demos/ReadMe.md), [**tutorials**, and **practice materials**](./src/ReadMe.md). Learning Outcomes ([**LOGs**](./docs/logs/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs). Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes) folder for journalling what you are learning throughout this course.
 
-> :no-entry: **Do *NOT*** use this repository for any assignments that are worth marks. :no-entry:
+> :warning: **Do *NOT*** use this repository for any assignments that are worth marks. :warning:
 
 Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://cpsc-1517.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://.github.io/about/LOGs.html) used in class.
 
