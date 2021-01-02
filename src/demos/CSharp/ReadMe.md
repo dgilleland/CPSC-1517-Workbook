@@ -15,3 +15,5 @@
   - [More Inheritance](./More%20Inheritance/More%20Inheritance.sln) - Locks
     - [ ] The power of "abstractions"
     - [ ] Can you follow the flow of logic?
+  - [Database and Entity Framework](./ConsoleDb/Demo.sln) - Reading a Db from the Console
+    - [ ] **TODO:** Build from Scratch
