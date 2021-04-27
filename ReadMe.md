@@ -42,7 +42,7 @@ Advanced resources outside the scope of this course include:
 
 ### VS 2019 Community
 
-You need to be running version 1.16.8 or higher of [**Visual Studio 2019**](https://visualstudio.microsoft.com/) in order to use [**.Net 5.0**](https://dotnet.microsoft.com/platform/support/policy/dotnet-core). If you need to upgrade, launch the Visual Studio Installer and upgrade through that tool.
+You need to be running version 1.16.9.4 or higher of [**Visual Studio 2019**](https://visualstudio.microsoft.com/) in order to use [**.Net 5.0**](https://dotnet.microsoft.com/platform/support/policy/dotnet-core). If you need to upgrade, launch the Visual Studio Installer and upgrade through that tool.
 
 | ![Launch VS Installer](./docs/images/vs-installer.png) | ![VS Install - Min VS2019 Version](./docs/images/vs-min-version.png) |
 |--------------------------------------------------------|----------------------------------------------------------------------|
