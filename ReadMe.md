@@ -15,13 +15,13 @@ Additionally, you can find online notes at the course's [Moodle site](https://mo
 Required tools for this course include:
 
 - [Visual Studio 2019, Community Edition](https://visualstudio.microsoft.com/) (see [Notes](#vs-2019-community) on the minimum version)
+- [Visual Studio Code](https://code.visualstudio.com) (see [Notes]() on VS Code extensions)
+- [LinqPad 6](https://www.linqpad.net/Download.aspx) or higher
 - [SQL Server 2019](https://www.microsoft.com/sql-server/sql-server-downloads) or higher, **Developer Edition**
 - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15#download-ssms) (*SSMS*)
 
-Recommended tools for this course include:
+Additional recommended tools for this course include:
 
-- **High-Powered Text Editors**
-  - [Visual Studio Code](https://code.visualstudio.com) (see [Notes]() on VS Code extensions)
 - **Version Control**
   - [GitHub Desktop](https://desktop.github.com) - Great for getting started, but you should plan on learning **git** on the command line.
   - [GitHub CLI](https://cli.github.com/) (*Command-Line Interface*)
