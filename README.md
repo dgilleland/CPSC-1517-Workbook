@@ -8,7 +8,7 @@ This repository is your **Student Workbook** for participating in the in-class d
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. :warning:
 
-Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca). Also be sure to checkout out the topical [**Learning Outcomes**](https://.github.io/about/LOGs.html) used in class.
+Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca).
 
 <!--
 > *There are old,  unofficial [website notes](https://cpsc-1517.github.io). These notes are no longer maintained, but may still be useful for some aspects of this course. You should remember that they contain content that references the older .NET Framework which is no longer taught in this course, so don't attempt to blindly apply content into material for the current iteration of this course.*
