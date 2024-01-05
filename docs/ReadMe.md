@@ -26,7 +26,3 @@ Review the following:
 - [ ] [What is a Computer Program?](https://programming-0101.github.io/TheBook/Teach/chapter1.html#introduction)
 
 
-## Learning Outcomes
-
-For a review of the learning outcomes for this course, they are also available [online](https://cpsc-1517.github.io/logs/).
-

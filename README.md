@@ -35,9 +35,9 @@ Required tools for this course include:
   - [Git for Windows/macOS/Linux](https://git-scm.com/downloads)
   - [GitHub CLI](https://cli.github.com/)
 - **Visual Studio** - *Your Instructor may have a preference for which IDE you use.*
-  - [Visual Studio Code](https://code.visualstudio.com) (see [Notes](#vs-code) on VS Code extensions)
+  - [Visual Studio Code](https://code.visualstudio.com) (see [Notes](./docs/ToolTips.md#vs-code) on VS Code extensions)
     - Begin your journey with VS Code with these [introductory videos](https://code.visualstudio.com/docs/introvideos/overview).
-  - [Visual Studio 2022, Community Edition](https://visualstudio.microsoft.com/) (see [Notes](#vs-2022-community) on the minimum version)
+  - [Visual Studio 2022, Community Edition](https://visualstudio.microsoft.com/) (see [Notes](./docs/ToolTips.md#vs-2022-community) on the minimum version)
 - [**LinqPad 8**](https://www.linqpad.net/Download.aspx) or higher
 - **Database Tools**
   - [SQL Server 2022](https://www.microsoft.com/sql-server/sql-server-downloads) or higher, **Developer Edition**
@@ -46,13 +46,11 @@ Required tools for this course include:
     - You might also find this video useful:
       - [Step By Step Guide To Install MSSQL Server On Mac Using Docker](https://youtu.be/BVNWRYPv78o) (20 min, 27 sec)
   - Database Management Tools - *For a comparison, see these tables of [feture comparisons](https://learn.microsoft.com/en-us/azure-data-studio/what-is-azure-data-studio#feature-comparison-with-sql-server-management-studio-ssms).*
-    - [Azure Data Studio](https://docs.microsoft.com/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15) (*ADS*)
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15#download-ssms) (*SSMS*)
 
 Additional recommended tools for this course include:
 
 - **Version Control**
-  - [GitHub Desktop](https://desktop.github.com) - Great for getting started, but you should plan on learning **git** on the command line.
   - [GitHub CLI](https://cli.github.com/) (*Command-Line Interface*)
 - **Drawing Tools**
   - A [LucidChart](https://www.lucidchart.com/pages/) free account, or Draw.io ([desktop](https://about.draw.io/integrations/#integrations_offline) and [online](https://draw.io) versions)
@@ -63,28 +61,3 @@ Other recommended resources include:
 - [Learn Markdown](https://commonmark.org/help/)
 - [Programming Fundamentals - An Object-Oriented Introduction to Programming in C#](https://programming-0101.github.io/TheBook/)
 
-----
-
-### VS Code
-
-
-
-----
-
-### VS 2022 Community
-
-[**Visual Studio 2022**](https://visualstudio.microsoft.com/) comes with full support for the .NET Core platform. If you need to upgrade, launch the Visual Studio Installer and upgrade through that tool.
-
-| ![Launch VS Installer](./docs/images/vs-installer.png) | ![VS Install - Min VS2019 Version](./docs/images/vs-min-version.png) |
-|--------------------------------------------------------|----------------------------------------------------------------------|
-| Lauch the VS Installer | Install any updates (*note: the image above is outdated*) |
-
-You also should ensure you have the required workflows and components for this course. *(Note: some images below may be outdated.)*
-
-| Required Workflows | Recommended Workflows | Individual Components | Extensions |
-|--------------------|-----------------------|-----------------------|------------|
-| ![ASPNET and web development](./docs/images/vs-workload-asp-net-web.png) | ![Azure development](./docs/images/vs-workload-azure.png) | ![GH and LiveShare](./docs/images/vs-individual-components.png) | ![Web Essentials](./docs/images/vs-extension-web-essentials.png) |
-| ![Data storage and processing](./docs/images/vs-workload-data-storage.png) | ![.NET desktop development](./docs/images/vs-workload-net-desktop.png) | | ![EF Core Power Tools](./docs/images/vs-extension-ef-core-power-tools.png) |
-| | ![Node.js development](./docs/images/vs-workload-node.png) | | |
-| | ![Universal Windows Platform development](./docs/images/vs-workload-uwp.png) | | |
-| | ![.NET Core cross-platform development](./docs/images/vs-workload-net-core-cross-platform.png) | | |
