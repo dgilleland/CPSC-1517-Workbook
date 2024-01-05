@@ -16,7 +16,9 @@
 
 ### VS Code
 
-
+- Begin your journey with VS Code with these [introductory videos](https://code.visualstudio.com/docs/introvideos/overview).
+- Required Extensions:
+  - [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 
 ----
 

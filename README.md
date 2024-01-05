@@ -32,11 +32,11 @@ Required tools for this course include:
 - **.NET SDKs**
   - You should be prepared to have the appropriate versions of .NET Core SDKs (*Software Development Kit*) installed on your computer. You can find the latest versions at [dot.net](https://dot.net).
 - **Command-Line Tools**
-  - [Git for Windows/macOS/Linux](https://git-scm.com/downloads)
-  - [GitHub CLI](https://cli.github.com/)
+  - [**Git** for Windows/macOS/Linux](https://git-scm.com/downloads)
+  - [**GitHub CLI**](https://cli.github.com/)
+  - [**node**](https://nodejs.org/en/download/) (which includes **npm**) - Node is a run-time that allows you to use JavaScript on the web server. It comes along with npm (*Node Package Manager*), a package-management tool for the command line that allows you to integrate 3rd-party libraries with your application.
 - **Visual Studio** - *Your Instructor may have a preference for which IDE you use.*
   - [Visual Studio Code](https://code.visualstudio.com) (see [Notes](./docs/ToolTips.md#vs-code) on VS Code extensions)
-    - Begin your journey with VS Code with these [introductory videos](https://code.visualstudio.com/docs/introvideos/overview).
   - [Visual Studio 2022, Community Edition](https://visualstudio.microsoft.com/) (see [Notes](./docs/ToolTips.md#vs-2022-community) on the minimum version)
 - [**LinqPad 8**](https://www.linqpad.net/Download.aspx) or higher
 - **Database Tools**

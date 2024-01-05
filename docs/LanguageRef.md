@@ -8,6 +8,8 @@
   - [**A Simplified C# Grammar**](https://programming-0101.github.io/TheBook/Teach/chapter1-7.html) (*Dan Gilleland*)
   - [C# Basics Cheat Sheet (2019)](https://begincodingnow.com/wp-content/uploads/2019/02/CSharpCheatSheetV1.pdf) (*PDF*)
   - [C# Cheat Sheet (2013)](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) (*PDF*)
+  - [Getting Started with C# in VS Code](https://code.visualstudio.com/docs/csharp/get-started)
+  - [**Learn C# Curriculum**](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)
 - SQL
   - Legacy notes on [DMIT-1508](https://dmit-1508.github.io/)
   - Dana Marsh has some great summary notes for DMIT1508. See [Dana's GitHub Page](https://dmarshnait.github.io/dmit1508/).
