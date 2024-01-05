@@ -1,6 +1,7 @@
 # Know Your Language ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
 
 - **C#**
+  - [Learn C# Programming Easily](https://www.codingdojo.com/blog/how-to-learn-c-programming)
   - [**C# Documentation**](https://learn.microsoft.com/en-us/dotnet/csharp/) (*Microsoft*)
   - [C# Programming Guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/) (*Microsoft*)
   - [C# Language Reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/) (*Microsoft*)
